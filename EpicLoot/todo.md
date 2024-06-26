@@ -131,13 +131,13 @@
 3. - [X] Melee Attacks that deal frost damage deal 50% of weapon damage as frost in a forward-facing cone
 4. - [X] Berserker - activate: stop all health regen but gain +50% to +200% damage based on health missing
 
-- [ ] **Bloodaxe (dps):** Knife (Fratricide), Head (Bloodaxe's Crown), Cape (Bloodaxe's Royal Mantle), Legs (Bloodaxe's Boots)
+- [x] **Bloodaxe (dps):** Knife (Fratricide), Head (Bloodaxe's Crown), Cape (Bloodaxe's Royal Mantle), Legs (Bloodaxe's Boots)
 
 2. - [ ] +25% attack speed, -50% attack stamina use
 3. - [ ] +200% Lightning Damage
 4. - [ ] All lightning damage has a chance to paralyze enemies
 
-- [ ] **Agilaz (bow):** Bow (King's Warning/Second Arrow), Cape (Völund's Wings), Chest (Skadi's Hunting Coat), Legs (Ullr's Hunting Skis)
+- [X] **Agilaz (bow):** Bow (King's Warning/Second Arrow), Cape (Völund's Wings), Chest (Skadi's Hunting Coat), Legs (Ullr's Hunting Skis)
 
 2. - [ ] Bow draw speed reduced by +50%
 3. - [ ] Enemies with two or more negative effects take +30% damage from all sources
